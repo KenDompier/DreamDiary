@@ -9,7 +9,7 @@ Features
     Add Dream: Users can log a new dream by providing the dream date, mood, vividity level, and a description.
     Edit Dream: Users can edit existing dreams, modifying details such as the dream date, mood, vividity, and description.
     Delete Dream: Users can delete dreams they no longer wish to keep in their diary.
-    Sorting: Dreams are displayed in either ascending or descending order based on their date.
+    Sorting: Dreams are displayed in either ascending or descending order based on their ID number.
     Interactive UI: The website features an intuitive user interface with modal dialogs for adding, editing, and deleting dreams.
 
 Technologies Used
