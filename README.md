@@ -1,5 +1,9 @@
 # Dream Diary
 Welcome to the Dream Diary website! This web application allows users to log their dreams, including details such as the dream date, mood, vividity, and description. Users can add, edit, and delete their dreams, providing a comprehensive record of their dream experiences.
+
+![Dream Diary](demo.gif)
+
+
 Features
 
     Add Dream: Users can log a new dream by providing the dream date, mood, vividity level, and a description.
