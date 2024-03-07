@@ -334,9 +334,10 @@ let deleteDream = async (id) => {
     };
     
     confirmDeleteButton.addEventListener('click', deleteDreamHandler);
-  
+
 } catch (error) {
   console.error('Error deleting dream:', error);
+}
 }
 
 
@@ -359,4 +360,4 @@ let getDreams = () => {
 
 (() => {
   getDreams();
-})();}
+})();
