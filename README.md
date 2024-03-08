@@ -33,4 +33,4 @@ Credits
 
     Kikiyama for the audio and favicon art
 
-    Nekocarpet for the mood art
+    nekocarpet for the mood art
