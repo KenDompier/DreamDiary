@@ -27,3 +27,10 @@ How to Use
     Deleting a Dream: To delete a dream, click on the trash icon next to the dream you want to remove. Confirm the deletion in the modal dialog.
 
     Sorting Dreams: Click on the sort icon to toggle between ascending and descending order based on dream dates.
+
+
+Credits
+
+    Kikiyama for the audio and favicon art
+
+    Nekocarpet for the mood art
